@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:14:31	132/132	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2030%20Mar%202022%2003:14:32%20GMT	https://unblo.cc/robots.txt		(from )
+20:14:31	1963/1963	---MCZ	200	added ('OK')	text/html	etag:W/%2262439dec-7ab%22	https://unblo.cc/	D:/Websites/ProxySite/unblo.cc/index.html	(from )
+20:14:31	1000/1000	---M--	200	added ('OK')	image/png	etag:%22622fc90a-3e8%22	https://twemoji.maxcdn.com/v/13.1.0/72x72/1f332.png	D:/Websites/ProxySite/twemoji.maxcdn.com/v/13.1.0/72x72/1f332.png	(from https://unblo.cc/)
+20:14:32	1932/1932	---MCZ	200	added ('OK')	text/css	etag:W/%2262439dec-78c%22	https://unblo.cc/index.css	D:/Websites/ProxySite/unblo.cc/index.css	(from https://unblo.cc/)
+20:14:32	2301/2301	---MCZ	200	added ('OK')	text/html	etag:W/%2262439dec-8fd%22	https://unblo.cc/about	D:/Websites/ProxySite/unblo.cc/about.html	(from https://unblo.cc/)
